@@ -4,7 +4,7 @@ import { useState } from "react"
 import Image from "next/image"
 
 const categories = ["All", "Weddings", "Engagements", "Nature", "Events"]
-
+     
 const portfolioItems = [
   { id: 1, category: "Engagements", img: "/portfolio1.png" },
   { id: 2, category: "Engagements", img: "/portfolio2.png" },
